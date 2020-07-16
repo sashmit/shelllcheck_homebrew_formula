@@ -1,0 +1,1 @@
+# shelllcheck_homebrew_formula
